@@ -1,8 +1,8 @@
 <div align="center">
-
-  <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soumava%20Pramanik&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=From%20Silicon%20to%20Sentience%20%E2%80%94%20Bridging%20Hardware%20%26%20Intelligence&descAlignY=56&descSize=16" width="100%" />
-
+  
+  # Soumava Pramanik
+  **`From Silicon to Sentience — Bridging Hardware & Intelligence`**
+  
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=820&lines=ECS+Undergraduate+%26+Researcher;Machine+Learning+%26+NLP+Engineer;Top+10+Global+%7C+Kaggle+ConnectX;Reinforcement+Learning+Enthusiast;Hardware+Tinkerer+%26+Photographer" alt="Typing SVG" />
